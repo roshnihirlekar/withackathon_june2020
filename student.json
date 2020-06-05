@@ -1,0 +1,30 @@
+[
+    {
+      "name": "geeta",
+      "grid": "111",
+      "currentacad": "8A",
+	  "rollno":"1",
+      "bookscollection": "2020-june-04"    
+    },
+	{
+      "name": "laxmi",
+      "grid": "222",
+      "currentacad": "8A",
+	  "rollno":"2",
+      "bookscollection": "2020-june-04"    
+    },
+	{
+      "name": "pankaj",
+      "grid": "333",
+      "currentacad": "8A",
+	  "rollno":"3",
+      "bookscollection": "2020-june-04"    
+    },
+	{
+      "name": "aryan",
+      "grid": "444",
+      "currentacad": "8A",
+	  "rollno":"4",
+      "bookscollection": "2020-june-05"    
+    }
+]
