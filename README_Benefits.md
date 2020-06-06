@@ -1,7 +1,7 @@
 # withackathon_june2020
 Eurobot Benefits:
 
-•	Around the clock support
+•	Around the clock support <br>
 o	 24 X 7 support for all school related queries; whenever, wherever.
 o	Fills in for the physical staff absence, in adverse situation like covid-19 lockdown that enforced full/partial movements or travel curbs.
 
