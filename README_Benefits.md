@@ -1,5 +1,5 @@
 # withackathon_june2020
-WIT Hackathon 2020
+Eurobot Benefits:
 
 •	Around the clock support
 o	 24 X 7 support for all school related queries; whenever, wherever.
